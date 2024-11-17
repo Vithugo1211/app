@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178682928284",
+    "project_id": "appvitor-754b8",
+    "storage_bucket": "appvitor-754b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178682928284:android:a6ca15168672621d572159",
+        "android_client_info": {
+          "package_name": "vitor.paiva.appvitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2O74WdyvPeZkCeUBjN8As-Y-LrPZYsGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
